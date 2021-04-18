@@ -15,4 +15,4 @@ const andIThinkToMyself = new DivElement('What a wonderful world');
 console.log(andIThinkToMyself.render());
 // Export class here
 export default DivElement;
-//wokid
+// wokid

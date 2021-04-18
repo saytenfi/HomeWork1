@@ -15,8 +15,8 @@ class Timer {
   }
 }
 export default Timer;
-//2nd part wont pass lint test
-// 
+// 2nd part wont pass lint test
+//
 // class Timer {
 //   start(seconds) {
 //     const timerInterval = setInterval(() => {
