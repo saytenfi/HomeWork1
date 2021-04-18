@@ -1,6 +1,5 @@
 import people from './people.json';
 
-
 people.forEach((person) => {
   const names = person.name.split(' ');
   const [firstName, lastName] = names;
